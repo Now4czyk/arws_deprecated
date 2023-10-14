@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/safeheaded/ros2_mycobot/install/mypalletizer_interfaces/include/**",
+        "/home/safeheaded/ros2_mycobot/install/mycobot_interfaces/include/**",
+        "/home/safeheaded/ros2_mycobot/install/mecharm_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/safeheaded/mycobot_600/src/robot_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
