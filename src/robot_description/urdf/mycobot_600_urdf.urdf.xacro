@@ -211,8 +211,4 @@
     <child link="link6"/>
     <origin xyz= "-0.07586 0 0" rpy = "-1.57080 0 0 "/>  
   </joint>
-
-
-
 </robot>
-
