@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(mycobot_moveit_ros2)
+project(robot_moveit_generated)
 
 find_package(ament_cmake REQUIRED)
 

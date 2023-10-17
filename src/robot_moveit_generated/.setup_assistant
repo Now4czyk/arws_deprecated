@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: robot_description
+    relative_path: urdf/mycobot_600_urdf.urdf
+  srdf:
+    relative_path: config/firefighter.srdf
+  package_settings:
+    author_name: kacper nowaczyk
+    author_email: kacper.nowaczyk@student.put.poznan.pl
+    generated_timestamp: 1697562304
