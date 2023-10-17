@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: mycobot_description
+    relative_path: urdf/mycobot/mycobot_urdf.urdf
+  srdf:
+    relative_path: config/firefighter.srdf
+  package_settings:
+    author_name: Bryan Ribas
+    author_email: bryanribas@gmail.com
+    generated_timestamp: 1693172662
